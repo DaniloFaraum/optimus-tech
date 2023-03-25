@@ -1,0 +1,20 @@
+.landing{
+    height: 407px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.landing h1{
+    font-size: 4rem;
+}
+
+.about{
+    font-weight: 600;
+    color: #8E2424;
+}
+
+.text{
+    margin: 0 30%;
+}

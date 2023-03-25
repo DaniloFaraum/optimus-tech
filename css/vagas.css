@@ -1,0 +1,29 @@
+.vagas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title{
+    margin: 0 30%;
+    margin-bottom: 32px;
+    margin-top: 64px;
+    font-size: 1.25rem;
+}
+
+.vaga{
+    margin: 0 30%;
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    padding: 24px, 24px, 28px, 24px;
+    margin-bottom: 24px;
+}
+
+.vaga h4, p{
+    margin-left: 24px;
+}
+
+.vaga__text{
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,15 @@
+@import url(./nav.css);
+@import url(./landing.css);
+@import url(./numbers.css);
+@import url(./job.css);
+@import url(./vagas.css);
+@import url(./review.css);
+@import url(./footer.css);
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+body p{
+    color: #667085;
+}

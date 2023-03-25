@@ -1,0 +1,21 @@
+.numbers{
+    display: flex;
+    justify-content: center;
+    gap: 0 32px;
+    margin-top: 107px;
+}
+
+.block{
+    width: 280px;
+}
+
+.block h1{
+    font-size: 3.75rem;
+    color: #8E2424;
+    margin-bottom: -4px;
+}
+
+.subtitle{
+    color: #101828;
+    font-weight: 500;
+}
